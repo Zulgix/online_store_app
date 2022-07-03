@@ -1,0 +1,86 @@
+const product_data = [
+  {
+    id: 1,
+    product_name: "Black N",
+    description: "Crazy Black N Shoes",
+    price: 550,
+    currency: "$",
+    thumb: "./images/1.jpg",
+    tags: ["shoes", "black"]
+  },
+  {
+    id: 2,
+    product_name: "Yellow Headphones",
+    description: "Hands-free, Hads-on Mushc Experience",
+    price: 250,
+    currency: "$",
+    thumb: "./images/2.jpg",
+    tags: ["headphones", "yellow"]
+  },
+  {
+    id: 3,
+    product_name: "Colorfull Shoes",
+    description: "Legs-free, Hads-on Legs Experience",
+    price: 350,
+    currency: "$",
+    thumb: "./images/3.jpg",
+    tags: ["colorfull", "shoes"],
+  },
+  {
+    id: 4,
+    product_name: "Royal Addi",
+    description: "White and shinny Addi ",
+    price: 350,
+    currency: "$",
+    thumb: "./images/4.jpg",
+    tags: ["shoes", "white", "adidas"],
+  },
+  {
+    id: 5,
+    product_name: "Smart White",
+    description: " cannot be Hands-free ^^",
+    price: 250,
+    currency: "$",
+    thumb: "./images/5.jpg",
+    tags: ["watch", "white", "smart"],
+  },
+
+  {
+    id: 6,
+    product_name: "Leaf Pods",
+    description: "Hands-free, Hads-on Music Experience",
+    price: 190,
+    currency: "$",
+    thumb: "./images/6.jpg",
+    tags: ["headphones", "white", "airpods"],
+  },
+
+  {
+    id: 7,
+    product_name: "Rayes Alpha",
+    description: "Hands-free, Hads-on Mushc Experience",
+    price: 350,
+    currency: "$",
+    thumb: "./images/1.png",
+    tags: ["headphones", "black", "alpha"],
+  },
+  {
+    id: 8,
+    product_name: "Rayes Z30",
+    description: "Hands-free, Hads-on Mushc Experience",
+    price: 250,
+    currency: "$",
+    thumb: "./images/2.png",
+    tags: ["headphones", "black", "z30"],
+  },
+  {
+    id: 9,
+    product_name: "Rayes X30",
+    description: "Hands-free, Hads-on Mushc Experience",
+    price: 350,
+    currency: "$",
+    thumb: "./images/3.png",
+    tags: ["headphones", "black", "x30"],
+  },
+];
+export default product_data;
